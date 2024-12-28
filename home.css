@@ -1,0 +1,30 @@
+body{
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif !important;
+}
+
+
+.login{
+    background-color: inherit;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+nav{box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+.navbar-brand{
+    font-size: 1.25rem !important;
+    white-space: nowrap  !important;
+}
+
+.nav1{
+    padding-left: 8% !important;
+    padding-right: 8% !important;
+}
+
+.content{
+    top: 190px;
+    padding-left: 16%;
+    padding-right: 16%;
+   color: #17a2b8;;
+}
